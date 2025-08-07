@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm oha</h1>
 <h3 align="center">Engineer from Singapore</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duriantaco&theme=matrix&no-frame=true&row=2&column=3&margin-w=11&margin-h=11" alt="duriantaco" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duriantaco&theme=matrix&no-frame=true&row=2&margin-w=11&margin-h=11" alt="duriantaco" /></a> </p>
 
 - 🔭 I’m currently working on [Skylos](https://github.com/duriantaco/skylos)
 
