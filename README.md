@@ -34,11 +34,11 @@
 const oha = {
     location: "Singapore 🇸🇬",
     currentFocus: "Building Skylos",
-    askMeAbout: ["Web Dev", "Cloud", "ML", "Coffee ☕"],
+    askMeAbout: ["Web Dev", "ML", "Cooking"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux", "TypeScript"],
-            css: ["Styled Components", "Tailwind"]
+            css: ["Bootstrap", "Tailwind"]
         },
         backEnd: {
             python: ["Django", "Flask", "FastAPI"],
@@ -48,8 +48,8 @@ const oha = {
         cloud: ["AWS", "Docker", "Kubernetes"],
         ml: ["PyTorch", "OpenCV", "Pandas"]
     },
-    currentProject: "Skylos - Next-gen cloud platform",
-    funFact: "I debug with console.log and I'm proud of it!"
+    currentProject: "Skylos - The better dead code detector",
+    funFact: "I debug with console.log and I'm proud of it"
     controversialOpinions: {
         leetcode: "Your ability to invert a binary tree in O(log n) means nothing if you can't ship features",
     }
