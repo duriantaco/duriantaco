@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&text=Hello,%20I'm%20Oha!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Software%20Engineer%20|%20Singapore%20🇸🇬&descSize=20&descAlignY=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&text=Hello,%20I'm%20Oha!&fontSize=50&fontColor=000&animation=twinkling&fontAlignY=50&desc=Software%20Engineer%20|%20Singapore%20🇸🇬&descSize=20&descAlignY=70" alt="header" />
 </div>
 
 <div align="center">
