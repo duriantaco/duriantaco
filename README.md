@@ -1,21 +1,162 @@
-<h1 align="center">Hi 👋, I'm oha</h1>
-<h3 align="center">Engineer from Singapore</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&text=Hello,%20I'm%20Oha!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Software%20Engineer%20|%20Singapore%20🇸🇬&descSize=20&descAlignY=70" alt="header" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duriantaco&theme=matrix&no-frame=true&row=2&column=5&margin-w=11&margin-h=11" alt="duriantaco" /></a> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+💻;Cloud+Architecture+Enthusiast+☁️;Machine+Learning+Explorer+🤖;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
+  
+  <br>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/duriantaco?style=social)](https://github.com/duriantaco)
+  [![GitHub Stars](https://img.shields.io/github/stars/duriantaco?style=social)](https://github.com/duriantaco?tab=repositories)
+  
+</div>
 
-- 🔭 I’m currently working on [Skylos](https://github.com/duriantaco/skylos)
 
-- 👨‍💻 All of my projects are available at [https://github.com/duriantaco](https://github.com/duriantaco)
+![Real World](https://img.shields.io/badge/Solves-Real_Problems-success?style=flat)
+![No LC](https://img.shields.io/badge/LeetCode-0_Problems_Solved-red?style=flat&logo=leetcode)
+![Production](https://img.shields.io/badge/Prefers-Production_Code-blue?style=flat)
 
-- 📫 How to reach me **aaronoh2015@gmail.com**
 
-- ⚡ Fun fact **I love dogs**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My inspiration
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img src="./assets/baby.jpg" alt="My Inspiration" width="350" style="border-radius: 20px;" />
+  <br>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duriantaco&show_icons=true&locale=en&layout=compact" alt="duriantaco" /></p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const oha = {
+    location: "Singapore 🇸🇬",
+    currentFocus: "Building Skylos",
+    askMeAbout: ["Web Dev", "Cloud", "ML", "Coffee ☕"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux", "TypeScript"],
+            css: ["Styled Components", "Tailwind"]
+        },
+        backEnd: {
+            python: ["Django", "Flask", "FastAPI"],
+            js: ["Node", "Express"],
+            databases: ["PostgreSQL", "MongoDB", "Redis"]
+        },
+        cloud: ["AWS", "Docker", "Kubernetes"],
+        ml: ["PyTorch", "OpenCV", "Pandas"]
+    },
+    currentProject: "Skylos - Next-gen cloud platform",
+    funFact: "I debug with console.log and I'm proud of it!"
+    controversialOpinions: {
+        leetcode: "Your ability to invert a binary tree in O(log n) means nothing if you can't ship features",
+    }
+};
+```
+
+## 💡 Coding Philosophy
+
+<div align="center">
+
+```text
+"First, solve the problem. Then, write the code." - John Johnson
+
+Leverage AI as a force multiplier, not a replacement for thinking. AI accelerates development and explores solutions, but every suggestion must be questioned, understood, and validated. The best code comes from human creativity augmented by AI efficiency, not blind copy paste. Code is a means to an end. 
+
+The future belongs to those who can architect solutions and validate AI output. I solve actual problems, not arbitrary puzzles. My GitHub is my resume.
+```
+
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/duriantaco">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=duriantaco&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" alt="streak stats"/>
+  </a>
+  <a href="https://github.com/duriantaco">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duriantaco&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" alt="github stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duriantaco&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=8" width="45%" alt="languages" />
+</div>
+
+<div align="center">
+
+<img src="https://ssr-contributions-svg.vercel.app/_/duriantaco?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=50&theme=native&dark=true" />
+</div>
+
+
+## Tech Universe
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI/ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
+## Featured Project
+
+<div align="center">
+  <a href="https://github.com/duriantaco/skylos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duriantaco&repo=skylos&theme=radical&bg_color=0D1117&hide_border=true" />
+  </a>
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duriantaco&theme=redical&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF4500&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+
+## Let's Connect!
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronoh2015@gmail.com)
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" alt="footer" />
+</div>
+
+
+<!-- Easter Egg -->
+<!--
+Ola! 
+If you're reading this, welcome!
+Here's a secret.. I hide easter eggs in some of my projects LOL.
+Happy hunting and good luck :) 🥚
+-->
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love" />
+</div>
