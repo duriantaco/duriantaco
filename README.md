@@ -74,7 +74,7 @@ The future belongs to those who can architect solutions and validate AI output. 
 
 <div align="center">
   <a href="https://github.com/duriantaco">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=duriantaco&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9">
+    <img src="https://github-readme-stats.vercel.app/api?username=duriantaco&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=fff">
   </a>
   <a href="https://github.com/duriantaco">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duriantaco&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" alt="github stats"/>
