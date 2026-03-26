@@ -32,8 +32,7 @@
 
 ```javascript
 const oha = {
-    location: "Singapore 🇸🇬",
-    currentFocus: "Building Skylos",
+    currentFocus: "Building Skylos & Fyn",
     askMeAbout: ["Web Dev", "ML", "Cooking"],
     technologies: {
         frontEnd: {
@@ -49,7 +48,6 @@ const oha = {
         ml: ["PyTorch", "OpenCV", "Pandas"]
     },
     currentProject: "Skylos - The better dead code detector",
-    funFact: "I debug with console.log and I'm proud of it"
     controversialOpinions: {
         leetcode: "Your ability to invert a binary tree in O(log n) means nothing if you can't ship features",
     }
