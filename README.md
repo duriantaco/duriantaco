@@ -1,160 +1,187 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&text=Hello,%20I'm%20Oha!&fontSize=50&fontColor=000&animation=twinkling&fontAlignY=50&desc=Software%20Engineer%20|%20Data Scientist%20&descSize=20&descAlignY=70" alt="header" />
-</div>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="hey i'm oha" />
+</p>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+💻;Machine+Learning+Explorer+🤖;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
-  
-  <br>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/duriantaco?style=social)](https://github.com/duriantaco)
-  [![GitHub Stars](https://img.shields.io/github/stars/duriantaco?style=social)](https://github.com/duriantaco?tab=repositories)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/duriantaco">
+    <img src="https://img.shields.io/github/followers/duriantaco?style=flat-square&color=58a6ff&labelColor=0d1117" alt="followers" />
+  </a>
+  <a href="https://github.com/duriantaco?tab=repositories">
+    <img src="https://img.shields.io/github/stars/duriantaco?style=flat-square&color=f97316&labelColor=0d1117" alt="stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=duriantaco&color=58a6ff&style=flat-square&label=profile+views" alt="views" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Solves-Real_Problems-14b8a6?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LeetCode-0_Solved-ef4444?style=flat-square&logo=leetcode&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Prefers-Prod_Code-58a6ff?style=flat-square&labelColor=0d1117" />
+</p>
 
-![Real World](https://img.shields.io/badge/Solves-Real_Problems-success?style=flat)
-![No LC](https://img.shields.io/badge/LeetCode-0_Problems_Solved-red?style=flat&logo=leetcode)
-![Production](https://img.shields.io/badge/Prefers-Production_Code-blue?style=flat)
+<img src="./assets/divider.svg" width="100%" />
 
+## 🧑‍💻 about me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My inspiration
-
-<div align="center">
-  <img src="./assets/baby.jpg" alt="My Inspiration" width="350" style="border-radius: 20px;" />
-  <br>
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const oha = {
-    currentFocus: "Building Skylos & Fyn",
-    askMeAbout: ["Web Dev", "ML", "Cooking"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux", "TypeScript"],
-            css: ["Bootstrap", "Tailwind"]
-        },
-        backEnd: {
-            python: ["Django", "Flask", "FastAPI"],
-            js: ["Node", "Express"],
-            databases: ["PostgreSQL", "MongoDB", "Redis"]
-        },
-        cloud: ["AWS", "Docker", "Kubernetes"],
-        ml: ["PyTorch", "OpenCV", "Pandas"]
-    },
-    currentProject: "Skylos - The better dead code detector",
-    controversialOpinions: {
-        leetcode: "Your ability to invert a binary tree in O(log n) means nothing if you can't ship features",
-    }
-};
+```
+$ cat about_oha.json
 ```
 
-## 💡 Coding Philosophy
-
-<div align="center">
-
-```text
-"First, solve the problem. Then, write the code." - John Johnson
-
-Leverage AI as a force multiplier, not a replacement for thinking. AI accelerates development and explores solutions, but every suggestion must be questioned, understood, and validated. The best code comes from human creativity augmented by AI efficiency, not blind copy paste. Code is a means to an end. 
-
-The future belongs to those who can architect solutions and validate AI output. I solve actual problems, not arbitrary puzzles. My GitHub is my resume.
+```json
+{
+  "currently_building": ["Skylos", "Fyn"],
+  "ask_me_about": ["web dev", "ML", "cooking"],
+  "hot_take": "inverting binary trees won't help you ship features",
+  "fun_fact": "mass producing side projects since forever",
+  "mood": "if it works in prod, it works"
+}
 ```
 
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>the tldr</h3>
+      <ul>
+        <li>i build tools that solve real problems, not toy demos</li>
+        <li>AI is a force multiplier, not a replacement for thinking</li>
+        <li>shipping > theorizing. my github is my resume</li>
+        <li>also i cook. a lot. 🍳</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="./assets/baby.jpg" width="260" style="border-radius: 15px;" alt="my little inspiration" />
+      <br><br>
+      <b>the real boss around here</b>
+    </td>
+  </tr>
+</table>
 
-## GitHub Analytics
+<img src="./assets/divider.svg" width="100%" />
+
+## 🚀 stuff i built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/duriantaco/skylos">🔍 Skylos</a></h3>
+      <p>Open-source Python, TypeScript & Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/duriantaco/skylos?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/skylos?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/skylos?style=flat-square&labelColor=0d1117" alt="language" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/duriantaco/fyn">⚡ Fyn</a></h3>
+      <p>Fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows. Built in Rust.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/duriantaco/fyn?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/fyn?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/fyn?style=flat-square&labelColor=0d1117" alt="language" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/duriantaco/jonq">🔧 jonq</a></h3>
+      <p>Query JSON with SQL-like syntax. A readable jq alternative with table, CSV, YAML output and interactive REPL.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/duriantaco/jonq?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/jonq?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/jonq?style=flat-square&labelColor=0d1117" alt="language" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/duriantaco/wooster">🤖 Wooster</a></h3>
+      <p>Monitor and manage AI coding agents from one terminal. Auto-discovers Claude Code, Codex, and more.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/duriantaco/wooster?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/wooster?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/wooster?style=flat-square&labelColor=0d1117" alt="language" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<details open>
+<summary><b>🛠 tech stack</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<details open>
+<summary><b>📊 the receipts</b></summary>
+<br>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duriantaco&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duriantaco&theme=github_dark" alt="Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=duriantaco&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duriantaco&theme=github_dark" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duriantaco&theme=github_dark" alt="Most Commit Language" />
+</p>
 
 <div align="center">
-  <a href="https://github.com/duriantaco">
-    <img src="https://github-readme-stats.vercel.app/api?username=duriantaco&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=fff">
+
+<img src="https://ssr-contributions-svg.vercel.app/_/duriantaco?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=50&theme=native&dark=true" alt="3D Contributions" />
+
+</div>
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 📬 hit me up
+
+<p align="center">
+  <a href="mailto:aaronoh2015@gmail.com">
+    <img src="https://img.shields.io/badge/aaronoh2015@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/duriantaco">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duriantaco&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" alt="github stats"/>
-  </a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duriantaco&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=8" width="45%" alt="languages" />
-</div>
-
-<div align="center">
-
-<img src="https://ssr-contributions-svg.vercel.app/_/duriantaco?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=50&theme=native&dark=true" />
-</div>
-
-
-## Tech Universe
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### AI/ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</div>
-
-## Featured Project
-
-<div align="center">
-  <a href="https://github.com/duriantaco/skylos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duriantaco&repo=skylos&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duriantaco&theme=redical&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF4500&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-
-## Let's Connect!
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronoh2015@gmail.com)
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" alt="footer" />
-</div>
-
+<br>
 
 <!-- Easter Egg -->
 <!--
-Ola! 
+Ola!
 If you're reading this, welcome!
 Here's a secret.. I hide easter eggs in some of my projects LOL.
 Happy hunting and good luck :) 🥚
 -->
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love" />
-</div>
+<p align="center">
+  <sub>built with mass amounts of caffeine and ctrl+c ctrl+v</sub>
+</p>

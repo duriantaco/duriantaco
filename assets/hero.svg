@@ -1,0 +1,70 @@
+<svg width="850" height="230" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse1 { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.55; } }
+    @keyframes pulse2 { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.4; } }
+    @keyframes drift { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @keyframes lineGlow { 0%, 100% { opacity: 0.3; } 50% { opacity: 0.7; } }
+    .p1 { animation: pulse1 3s ease-in-out infinite; }
+    .p2 { animation: pulse2 4s ease-in-out infinite; }
+    .drift { animation: drift 5s ease-in-out infinite; }
+    .glow { animation: lineGlow 3s ease-in-out infinite; }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#a78bfa;#58a6ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#58a6ff;#a78bfa" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="30%" stop-color="#58a6ff"/>
+      <stop offset="70%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="230" fill="url(#bg)" rx="12"/>
+
+  <!-- Subtle grid -->
+  <line x1="0" y1="46" x2="850" y2="46" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="92" x2="850" y2="92" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="138" x2="850" y2="138" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="184" x2="850" y2="184" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Particles -->
+  <circle cx="80" cy="42" r="2.5" fill="#58a6ff" class="p1"/>
+  <circle cx="190" cy="175" r="2" fill="#a78bfa" class="p2" style="animation-delay:.7s"/>
+  <circle cx="670" cy="52" r="2" fill="#f97316" class="p1" style="animation-delay:1.2s"/>
+  <circle cx="760" cy="158" r="2.5" fill="#58a6ff" class="p2" style="animation-delay:.3s"/>
+  <circle cx="425" cy="22" r="1.5" fill="#a78bfa" class="p1" style="animation-delay:2s"/>
+  <circle cx="300" cy="198" r="2" fill="#f97316" class="p2" style="animation-delay:1.5s"/>
+  <circle cx="550" cy="192" r="1.5" fill="#58a6ff" class="p1" style="animation-delay:.9s"/>
+  <circle cx="130" cy="128" r="1.5" fill="#a78bfa" class="p2" style="animation-delay:1.8s"/>
+  <circle cx="720" cy="88" r="2" fill="#58a6ff" class="p1" style="animation-delay:.5s"/>
+  <circle cx="480" cy="168" r="1.5" fill="#f97316" class="p1" style="animation-delay:1.1s"/>
+  <circle cx="50" cy="200" r="1.5" fill="#58a6ff" class="p2" style="animation-delay:2.2s"/>
+  <circle cx="380" cy="38" r="1.5" fill="#f97316" class="p2" style="animation-delay:.6s"/>
+  <circle cx="600" cy="120" r="2" fill="#a78bfa" class="p1" style="animation-delay:1.4s"/>
+
+  <!-- Name -->
+  <text x="425" y="100" text-anchor="middle" font-family="'SF Mono','Fira Code','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="url(#nameGrad)">hey, i'm oha</text>
+
+  <!-- Accent line under name -->
+  <rect x="275" y="114" width="300" height="2" fill="url(#accent)" rx="1" class="glow"/>
+
+  <!-- Subtitle -->
+  <text x="425" y="148" text-anchor="middle" font-family="'SF Mono','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" fill="#8b949e">software engineer  ·  tool builder  ·  ml explorer</text>
+
+  <!-- Tagline -->
+  <text x="425" y="185" text-anchor="middle" font-family="'SF Mono','Fira Code','JetBrains Mono',Consolas,monospace" font-size="12" fill="#6e7681" class="drift">shipping code, not solving puzzles</text>
+</svg>
