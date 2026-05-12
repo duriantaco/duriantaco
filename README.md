@@ -91,12 +91,12 @@ $ cat about_oha.json
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/duriantaco/wooster">🤖 Wooster</a></h3>
-      <p>Monitor and manage AI coding agents from one terminal. Auto-discovers Claude Code, Codex, and more.</p>
+      <h3><a href="https://github.com/duriantaco/vouch">🧾 Vouch</a></h3>
+      <p>Compile human-owned intent into obligations, link evidence artifacts, and produce deterministic release decisions for agent-written changes.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/duriantaco/wooster?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
-        <img src="https://img.shields.io/github/forks/duriantaco/wooster?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
-        <img src="https://img.shields.io/github/languages/top/duriantaco/wooster?style=flat-square&labelColor=0d1117" alt="language" />
+        <img src="https://img.shields.io/github/stars/duriantaco/vouch?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/vouch?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/vouch?style=flat-square&labelColor=0d1117" alt="language" />
       </p>
     </td>
   </tr>
