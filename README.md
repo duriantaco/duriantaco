@@ -82,21 +82,21 @@ $ cat about_oha.json
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/duriantaco/jonq">🔧 jonq</a></h3>
-      <p>Query JSON with SQL-like syntax. A readable jq alternative with table, CSV, YAML output and interactive REPL.</p>
+      <h3><a href="https://github.com/duriantaco/vulnhunter">🕵️ VulnHunter</a></h3>
+      <p>Ground-truth-blind repository vulnerability-scanning harness with high-recall static analysis, evidence-grounded investigation, and optional independent verification.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/duriantaco/jonq?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
-        <img src="https://img.shields.io/github/forks/duriantaco/jonq?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
-        <img src="https://img.shields.io/github/languages/top/duriantaco/jonq?style=flat-square&labelColor=0d1117" alt="language" />
+        <img src="https://img.shields.io/github/stars/duriantaco/vulnhunter?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/vulnhunter?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/vulnhunter?style=flat-square&labelColor=0d1117" alt="language" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/duriantaco/vouch">🧾 Vouch</a></h3>
-      <p>Compile human-owned intent into obligations, link evidence artifacts, and produce deterministic release decisions for agent-written changes.</p>
+      <h3><a href="https://github.com/duriantaco/ravage">🛡️ Ravage</a></h3>
+      <p>Evidence-first research workspace for autonomous web application security evaluation on controlled, authorized targets.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/duriantaco/vouch?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
-        <img src="https://img.shields.io/github/forks/duriantaco/vouch?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
-        <img src="https://img.shields.io/github/languages/top/duriantaco/vouch?style=flat-square&labelColor=0d1117" alt="language" />
+        <img src="https://img.shields.io/github/stars/duriantaco/ravage?style=flat-square&color=58a6ff&labelColor=0d1117" alt="stars" />
+        <img src="https://img.shields.io/github/forks/duriantaco/ravage?style=flat-square&color=6e7681&labelColor=0d1117" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/duriantaco/ravage?style=flat-square&labelColor=0d1117" alt="language" />
       </p>
     </td>
   </tr>
