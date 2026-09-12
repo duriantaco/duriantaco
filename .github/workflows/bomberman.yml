@@ -1,0 +1,38 @@
+name: Update Bomberman contributions
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: bomberman-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Bomberman contribution graphs
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # main (2026-08-01)
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: bomberman
+
+      - name: Publish graphs to the output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          commit_message: Update Bomberman contribution graphs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -154,11 +154,12 @@ $ cat about_oha.json
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duriantaco&theme=github_dark" alt="Most Commit Language" />
 </p>
 
-<div align="center">
-
-<img src="https://ssr-contributions-svg.vercel.app/_/duriantaco?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=50&theme=native&dark=true" alt="3D Contributions" />
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duriantaco/duriantaco/output/bomberman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/duriantaco/duriantaco/output/bomberman-contribution-graph.svg" width="100%" alt="Bomberman blasting through my GitHub contributions" />
+  </picture>
+</p>
 
 </details>
 
